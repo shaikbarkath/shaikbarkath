@@ -5,8 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikbarkath&label=Profile%20views&color=0e75b6&style=flat" alt="shaikbarkath" /> </p>
 
 - 🔭 I’m currently working on **Cloud Monitoring using Grafana**
+
 - 🌱 I’m currently learning **Amazon Web Services and Grafana**
+
 - 🤝 I’m looking for help with **cloud monitoring using Grafana and InfluxDB**
+
 - 📫 How to reach me **shaikbarkath444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
